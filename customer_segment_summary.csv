@@ -1,0 +1,5 @@
+Customer_Segment,Count_Customers,Revenue,Avg_Recency,Customer_%,Revenue_%
+At Risk,554,6184193.68,323.0,76.94,74.08
+Regular,90,1181482.51,75.0,12.5,14.15
+High Value,34,788826.9,37.0,4.72,9.45
+Low Value,42,193907.51,65.0,5.83,2.32

@@ -1,0 +1,736 @@
+Customer_ID,Customer_Name,Age,City,Total_Purchase,Number_of_Orders,Last_Purchase_Date,Product_Category,Payment_Method
+CUST1001,Ira Bose,56,Delhi,8371.7,5,10/31/2025,Electronics,Cash
+CUST1002,Sai Bose,19, pune,12529.5,10,2025-08-08,fashion,Cash
+CUST1003,Diya Iyer,44,Mumbai,3938.92, 7 ,"Nov 21, 2025",groceries,Net Banking
+CUST1004,Reyansh Patel,24,Pune,2830.85,9,11/03/2025,Eletronics,Net Banking
+CUST1005,Atharv Nair,64,Kolkata,5410.6,14,12/16/2025,sports,credit card
+CUST1006,Vihaan Das, 32 ,Nagpur,7980.95,15,08/29/2025,groceries,debit card
+CUST1007,Reyansh Mehta,,Nagpur,11022.38,13,09-05-2025,home appliances,UPI
+CUST1008,Arjun Bose,18,Pune,8816.61,7,"Mar 04, 2026",sports,net banking
+CUST1009,Diya Bose,25,Mumbai,10157.05,12,25-02-2026,Eletronics,Credit Card
+CUST1010,Sara Gupta,45years,Jaipur,3876.37,10,2025-10-04,Groceries,debit card
+CUST1011,Krishna Singh,56,Kolkata,9688.74,15,"Feb 24, 2026",Electronics,upi
+CUST1012,Arjun Sharma,24,Mumbai,10284.63,11,18-04-2025,electronics,Net Banking
+CUST1013,Aadhya Shaikh,50,Ahmedabad,7799.2,6,11/15/2025,sports,Net Banking
+CUST1014,Sara Yadav,50,Bangalore,6059.55,1,2025-07-07,beauty,Net Banking
+CUST1015,Aditya Shaikh,19,Mumbai,8092.91,12,"Aug 20, 2025",beauty,debit card
+CUST1016,Ishaan Reddy,36,Chennai,15953.95,1,25-06-2025,home appliances,Net Banking
+CUST1017,Reyansh Nair,51,Chennai,1917.42,6,07/16/2025,Home Appliances,Net Banking
+CUST1018,Diya Jadhav,53,Chennai,9099.54,2,08-07-2025,electronics,upi
+CUST1019,Myra Patel,42,Kolkata,3218.66,9,2025-03-28,groceries,Cash
+CUST1020,Reyansh Singh, 32 ,Kolkata,6106.36,,"Dec 02, 2025",sports,Debit Card
+CUST1021,Vivaan Yadav,69,Mumbai,,five,2025-10-30,Electronics,debit card
+CUST1022,Saanvi Pawar,63,Ahmedabad,3286.55,4,"Mar 05, 2025",Groceries,net banking
+CUST1023,Aarav Bose,34,Kolkata,9131.46, 7 ,04/01/2025,Home Appliances,credit card
+CUST1024,Vivaan Yadav,25,Nagpur,21222.89,3,09/21/2025,electronics,cash
+CUST1025,Saanvi Jadhav,45years,Chennai,6928.49,five,,Home appliance,net banking
+CUST1026,Diya Khan,45years,Pune,3838.4,five,"Feb 02, 2026",fashion,Credit Card
+CUST1027,Vivaan Sharma,63,Kolkata,4749.02,2,18/12/2025,home appliances,Cash
+CUST1028,Aadhya Jadhav,60,Kolkata,4557.78,7,2025-10-10,Home Appliances,credit card
+CUST1029,Ishaan Yadav,25,Nagpur,2317.5,2,24-04-2025,Electronics,Debit Card
+CUST1030,Saanvi Bose,39,Pune,3975.44,5,2025-07-13,Home appliance,Debit Card
+CUST1031,Sai Das,69,Ahmedabad,5511.93,10,07-11-2025,sports,Credit Card
+CUST1032,Sai Iyer,36,Pune,8498.05,2,04/12/2025,electronics,debit card
+CUST1033,Anaya Yadav, 32 ,Ahmedabad,10056.34,13,01/15/2026,beauty,net banking
+CUST1034,Krishna Verma,68,Pune,5815.12,1,09-04-2025,groceries,UPI
+CUST1035,Meera Singh, 32 ,Jaipur,153833.5,1,03/28/2026,Electronics,Credit Card
+CUST1036,Vivaan Pawar,33,Pune,9091.33,1,12/21/2025,Home appliance,net banking
+CUST1037,Sara Singh, 32 , pune,7044.23,2,02/08/2025,Beauty,Debit Card
+CUST1038,Sara Nair,34,Hyderabad,3432.33,2,2025-02-12,Home Appliances,net banking
+CUST1039,Ishaan Khan,42,Bangalore,12077.78,1,24-02-2026,sports,upi
+CUST1040,Aarav Jadhav,56,Jaipur,2598.8,,01/29/2026,Beauty,Credit Card
+CUST1041,Anaya Shaikh,42,Jaipur,126914.56,9,07/09/2025,electronics,credit card
+CUST1042,Meera Sharma,69,Ahmedabad,2149.78,7,2026-02-21,Home appliance,upi
+CUST1043,Ishaan Yadav,45years,,5176.75,11,15/01/2026,home appliances,net banking
+CUST1044,Krishna Bose,,Jaipur,2777.94,13,04/27/2025,home appliances,Credit Card
+CUST1045,Reyansh Patel,62,Jaipur,5364.49,6,30/06/2025,Eletronics,Cash
+CUST1046,Aadhya Joshi,56, pune,6534.67,12,03/14/2025,Electronics,net banking
+CUST1047,Vihaan Bose,18,Delhi,3712.5,1,18/11/2025,Sports,Debit Card
+CUST1048,Krishna Patel, 32 ,Pune,6843.0,4,02/13/2026,Eletronics,Net Banking
+CUST1049,Arjun Iyer,31,,10603.37,11,2025-08-20,Home appliance,cash
+CUST1050,Atharv Joshi,55,Kolkata,4108.16,12,,Electronics,Debit Card
+CUST1051,Atharv Singh,34,Hyderabad,4742.12,3,09-01-2026,Groceries,credit card
+CUST1052,Sara Mehta,22,Hyderabad,11556.99,15,"May 21, 2025",home appliances,credit card
+CUST1053,Vivaan More,30,Pune,71558.9,1,,Eletronics,Cash
+CUST1054,Anika Kulkarni,40,MUMBAI ,5167.1,13,28/03/2025,Beauty,net banking
+CUST1055,Meera Patel,51,Mumbai,8987.98,11,,Groceries,cash
+CUST1056,Myra Reddy,,Hyderabad,9083.71, 7 ,05/30/2025,Beauty,cash
+CUST1057,Sai Mehta,47,Mumbai,12530.46,15,07/28/2025,Beauty,Debit Card
+CUST1058,Diya Naik, 32 ,Mumbai,6549.4,5,11/26/2025,fashion,Credit Card
+CUST1059,Aarav Kulkarni,65,Chennai,9743.14,8,09-03-2025,Beauty,upi
+CUST1060,Aarav Singh,,Chennai,6865.6,10,02/20/2025,Home Appliances,Cash
+CUST1061,Vivaan Khan,22,Delhi,7892.84,9,02/13/2026,Fashion,Cash
+CUST1062,Meera Verma,64,Mumbai,7233.2,12,28/08/2025,Electronics,Net Banking
+CUST1063,Krishna Verma,43,Delhi,6723.59,15,01-07-2025,fashion,debit card
+CUST1064,Sai Singh,52,Mumbai,4283.05,14,07-11-2025,fashion,Debit Card
+CUST1065,Saanvi Joshi,42,Nagpur,8791.77,2,03/28/2025,Electronics,Cash
+CUST1066,Anika Naik,59,Hyderabad,10334.63,1,2025-06-28,Eletronics,Net Banking
+CUST1067,Sai Kulkarni,65,Delhi,15611.15,7,01-03-2026,beauty,UPI
+CUST1068,Sai Das,45years,Jaipur,9747.97,6,09/19/2025,groceries,Net Banking
+CUST1069,Arjun Patel,25,Jaipur,7113.24,4,12/09/2025,fashion,Cash
+CUST1070,Anika More,18,Bangalore,3400.8,2,2025-07-14,Home appliance,UPI
+CUST1071,Aarav Patel,61,Ahmedabad,,9,02/17/2025,fashion,Net Banking
+CUST1072,Ishaan Shaikh,52, pune,7963.67,8,"Jan 31, 2026",Eletronics,upi
+CUST1073,Myra Shaikh,25,Nagpur,4729.43,3,"Feb 15, 2025",Eletronics,Net Banking
+CUST1074,Reyansh Khan,,Hyderabad,5774.89,7,30-10-2025,Home appliance,credit card
+CUST1075,Kiara Iyer,64,Kolkata,12176.7,6,04-10-2025,sports,credit card
+CUST1076,Anika More,69,Kolkata,10520.46,5,2025-06-16,fashion,credit card
+CUST1077,Ira Reddy,39,Chennai,6886.88,15,08/28/2025,fashion,credit card
+CUST1078,Anika Patel,32,Mumbai,9568.06,4,22-06-2025,fashion,cash
+CUST1079,Sai Bose, 32 ,Bangalore,3904.47,11,2025-11-11,beauty,Debit Card
+CUST1080,Vivaan Mehta,35,Pune,14845.38,12,04-03-2025,groceries,Debit Card
+CUST1081,Saanvi Naik,46,Jaipur,8850.74,10,01/10/2025,beauty,Credit Card
+CUST1082,Kiara Shaikh,,Chennai,2316.4,5,14-06-2025,Eletronics,UPI
+CUST1083,Vivaan Bose,, pune,13400.26,11,2025-07-24,Electronics,Cash
+CUST1084,Arjun Khan,41,Mumbai,4420.87, 7 ,10/06/2025,groceries,debit card
+CUST1085,Anika Patel,39,,10240.62,7,02-09-2025,home appliances,UPI
+CUST1086,Vivaan Patel,47,Pune,20011.51,2,09-12-2025,Eletronics,debit card
+CUST1087,Aarav Kulkarni,55,Mumbai,3472.27,10,03/31/2025,Fashion,net banking
+CUST1088,Meera Iyer,50,Mumbai,10378.85,11,2025-05-08,beauty,credit card
+CUST1089,Sai Das,64,Jaipur,12024.41,8,02/12/2025,Sports,debit card
+CUST1090,Ishaan Khan,33,Ahmedabad,64175.72,5,"Mar 16, 2025",Sports,debit card
+CUST1091,Reyansh Singh,46,Jaipur,3867.69,2,2025-12-03,home appliances,Net Banking
+CUST1092,Kiara Nair,22,Nagpur,10444.42,1,,Eletronics,UPI
+CUST1093,Kiara Bose,40,Hyderabad,5432.32,13,2025-09-12,Eletronics,net banking
+CUST1094,Aditya Nair,60,Mumbai,7678.69,10,02/26/2026,Groceries,Net Banking
+CUST1095,Sara More,42,Nagpur,8987.77,,2025-10-15,Home appliance,Cash
+CUST1096,Kiara Patel,62,Mumbai,6069.93,five,2025-09-20,groceries,debit card
+CUST1097,Reyansh Singh,53,Pune,9788.74,11,"Aug 17, 2025",Sports,cash
+CUST1098,Sai Naik, 32 ,Mumbai,2211.15,1,2025-04-01,Fashion,Cash
+CUST1099,Vivaan Pawar,26,Mumbai,6182.11,11,2026-03-07,Fashion,cash
+CUST1100,Kiara Patel,20,Pune,5594.97,9,2025-06-02,Home Appliances,cash
+CUST1101,Myra Gupta,,Nagpur,4579.48, 7 ,01/02/2026,Beauty,credit card
+CUST1102,Kiara Sharma,43,Ahmedabad,6963.12,7,05/12/2025,Home appliance,credit card
+CUST1103,Anaya Bose,unknown,,4924.08,7,2025-12-19,sports,Debit Card
+CUST1104,Reyansh Bose,48,Kolkata,10771.54,7,28/03/2026,groceries,cash
+CUST1105,Sai Joshi,42,Chennai,6428.76,,2025-02-11,fashion,upi
+CUST1106,Atharv Reddy,30, pune,11777.35,8,20/03/2025,Home Appliances,Debit Card
+CUST1107,Sara Nair,42,Chennai,67702.8,4,2025-06-12,Electronics,cash
+CUST1108,Vihaan Nair,unknown,Pune,5790.83,5,,Sports,credit card
+CUST1109,Anaya Shaikh,63, pune,3999.99,five,2026-01-28,Eletronics,debit card
+CUST1110,Atharv Nair,68,Delhi,4972.08,5,"Aug 29, 2025",Electronics,cash
+CUST1111,Myra Patel,52,Chennai,4743.41,1,23-10-2025,groceries,Credit Card
+CUST1112,Myra Nair,30,Chennai,13499.73,12,"Sep 18, 2025",Fashion,net banking
+CUST1113,Ira Nair,29,Bangalore,14926.68,12,08/05/2025,fashion,UPI
+CUST1114,Diya More,65,Pune,9295.95,14,09/27/2025,Sports,Net Banking
+CUST1115,Myra Gupta,57,Kolkata,3577.26,8,"Feb 01, 2026",Beauty,Net Banking
+CUST1116,Ira Joshi,58,Delhi,3889.66,15,03/03/2025,sports,cash
+CUST1117,Vihaan Pawar,unknown,Pune,8867.91,2,14-02-2026,groceries,Net Banking
+CUST1118,Anaya Bose,58,Delhi,9084.17,10,17-05-2025,beauty,credit card
+CUST1119,Aditya Yadav, 32 ,Mumbai,17216.42,11,2026-03-20,Home appliance,cash
+CUST1120,Krishna More,27,Pune,16300.15,1,12/01/2026,Sports,debit card
+CUST1121,Diya Singh,28,Hyderabad,4364.19,13,04/07/2025,Fashion,net banking
+CUST1122,Aditya Kulkarni,46,Jaipur,4407.34,8,"Mar 11, 2026",Home appliance,debit card
+CUST1123,Diya Singh,54,Hyderabad,9454.42,12,2025-10-21,Home Appliances,Net Banking
+CUST1124,Meera Shaikh,66,Hyderabad,6320.88,5,"Mar 05, 2026",Eletronics,cash
+CUST1125,Ira Reddy,69,Nagpur,11248.6,4,2025-10-30,Home appliance,net banking
+CUST1126,Sai Reddy,24,Ahmedabad,2938.09,5,19-01-2026,beauty,upi
+CUST1127,Kiara Gupta,30,Chennai,5569.34,6,04/06/2025,groceries,UPI
+CUST1128,Aarav Singh,unknown,Nagpur,,6,04-11-2025,Home appliance,UPI
+CUST1129,Meera Shaikh,57,Bangalore,8222.57,1,29-10-2025,beauty,Net Banking
+CUST1130,Vihaan Khan,45years,Delhi,10302.72,13,03/07/2025,fashion,net banking
+CUST1131,Anika Patel,26,Kolkata,8693.45,14,11/12/2025,beauty,Debit Card
+CUST1132,Krishna Khan,24,Kolkata,12440.03,14,2026-03-20,Fashion,UPI
+CUST1133,Kiara Gupta,30,Kolkata,8332.48,13,2025-09-30,beauty,Cash
+CUST1134,Reyansh More,61,Ahmedabad,6731.86,15,06-03-2025,Eletronics,credit card
+CUST1135,Aadhya Pawar, 32 ,Hyderabad,7022.42, 7 ,10/31/2025,sports,Credit Card
+CUST1136,Ira Reddy,68,Hyderabad,6243.37, 7 ,"Sep 27, 2025",Beauty,UPI
+CUST1137,Aadhya Singh,29,Chennai,14837.49,,01/04/2026,beauty,UPI
+CUST1138,Kiara Naik,45years,Delhi,6512.31,8,01/07/2026,beauty,Debit Card
+CUST1139,Sai Reddy,23,Bangalore,,1,,Fashion,Net Banking
+CUST1140,Anaya Shaikh,64,Jaipur,1949.71,5,"Oct 12, 2025",home appliances,Debit Card
+CUST1141,Arjun Naik,37,Kolkata,4582.52,8,"Oct 27, 2025",Beauty,credit card
+CUST1142,Vihaan Khan,23,Mumbai,6356.27,7,2025-07-30,Electronics,net banking
+CUST1143,Arjun Naik,50,Pune,6472.53,11,08/27/2025,Fashion,debit card
+CUST1144,Vivaan Yadav,56,Chennai,184051.67,10,,home appliances,debit card
+CUST1145,Saanvi Kulkarni,18,Mumbai,6130.47,1,26-08-2025,home appliances,credit card
+CUST1146,Sai Bose,47,Kolkata,7317.68,1,06/18/2025,home appliances,debit card
+CUST1147,Sara Iyer,65,Mumbai,10924.03,9,"Jan 02, 2026",beauty,credit card
+CUST1148,Anaya More,26,Bangalore,7698.12,2,26-06-2025,beauty,Net Banking
+CUST1149,Ishaan Singh,28,Bangalore,4246.3,10,20-02-2025,Sports,Cash
+CUST1150,Sai Kulkarni,46,Delhi,3070.92,10,10-07-2025,Electronics,Debit Card
+CUST1151,Krishna Yadav, 32 ,Jaipur,4737.75,5,2025-06-12,Fashion,upi
+CUST1152,Vivaan Gupta,53,Nagpur,124173.42,15,2025-02-26,sports,UPI
+CUST1153,Aarav Reddy,28,Delhi,10000.13,4,08/02/2026,Beauty,UPI
+CUST1154,Sara Sharma,46,Chennai,10298.14,9,12/07/2025,Home appliance,Credit Card
+CUST1155,Arjun Sharma,27,Delhi,2531.92, 7 ,23/03/2025,Fashion,credit card
+CUST1156,Aadhya Jadhav,18,Chennai,7490.34,8,"Nov 27, 2025",groceries,UPI
+CUST1157,Arjun Joshi,41,Delhi,17792.27,12,2025-04-21,Beauty,cash
+CUST1158,Aarav Kulkarni,53,Hyderabad,5175.65,6,2025-11-09,home appliances,Net Banking
+CUST1159,Myra Pawar,24,Delhi,4779.08,2,12/07/2025,Home Appliances,debit card
+CUST1160,Atharv Mehta,20,Hyderabad,10885.28,13,08/12/2025,Eletronics,net banking
+CUST1161,Ira Bose,53,Bangalore,4965.46,1,2026-03-27,sports,UPI
+CUST1162,Diya Joshi,49,Jaipur,8326.41,7,12/20/2025,home appliances,Net Banking
+CUST1163,Atharv Joshi,51,Bangalore,16921.6,13,05/25/2025,Sports,cash
+CUST1164,Aarav Joshi,47,Nagpur,12244.01, 7 ,,Sports,Debit Card
+CUST1165,Myra Verma,57,Delhi,3236.48,8,10/22/2025,Fashion,Cash
+CUST1166,Krishna Gupta,29,Ahmedabad,4244.66,11,23-09-2025,home appliances,cash
+CUST1167,Anaya Khan,,Mumbai,2992.76,4,05-08-2025,Groceries,Net Banking
+CUST1168,Meera Patel,55,Hyderabad,8759.54,2,06-02-2025,Eletronics,upi
+CUST1169,Aditya Naik,37, pune,8889.86,15,"Dec 12, 2025",Home Appliances,cash
+CUST1170,Reyansh Singh,63,Chennai,,9,10/10/2025,fashion,upi
+CUST1171,Vihaan Sharma,49,Kolkata,5602.88,15,2025-04-17,groceries,upi
+CUST1172,Reyansh Joshi,19,Mumbai,4499.53,9,2025-03-04,groceries,Cash
+CUST1173,Arjun More,26,Delhi,6386.38, 7 ,2025-07-02,sports,credit card
+CUST1174,Sai Yadav,69,Ahmedabad,8358.55,3,12/30/2025,electronics,debit card
+CUST1175,Krishna Gupta,24,Nagpur,9449.9,6,03/11/2025,Fashion,Credit Card
+CUST1176,Anaya Khan,56,Bangalore,8141.12,1,09/25/2025,Home Appliances,upi
+CUST1177,Vihaan Mehta,,Mumbai,11047.62,12,17-08-2025,Electronics,upi
+CUST1178,Sara Patel,,Hyderabad,7656.38,1,2025-05-22,Fashion,Cash
+CUST1179,Ira Nair,57,Ahmedabad,4388.29,,04/23/2025,Groceries,Debit Card
+CUST1180,Aarav Shaikh,36,,4728.45,3,2025-10-31,Home Appliances,Cash
+CUST1181,Vihaan Jadhav,37,Bangalore,6342.11,7,2026-02-09,sports,upi
+CUST1182,Kiara Joshi,22,Jaipur,6175.37,8,,Eletronics,upi
+CUST1183,Sara Naik,32,Mumbai,4423.03,10,,Sports,debit card
+CUST1184,Saanvi Khan,38,Chennai,6474.05,2,2025-07-04,Groceries,Debit Card
+CUST1185,Sara Patel,35,Hyderabad,3682.79,6,31/08/2025,sports,UPI
+CUST1186,Ishaan Bose,,Ahmedabad,10032.26,2,,home appliances,credit card
+CUST1187,Anika Gupta,63,Nagpur,4787.37,11,2025-04-18,Eletronics,Debit Card
+CUST1188,Reyansh Joshi,35,Ahmedabad,3276.18,1,2025-09-22,groceries,UPI
+CUST1189,Anika Mehta,40,Jaipur,6463.98,10,2026-01-19,electronics,cash
+CUST1190,Saanvi Kulkarni,,Bangalore,7481.05,14,14/02/2025,fashion,credit card
+CUST1191,Vivaan Naik,65,Kolkata,5942.63,1,"Dec 01, 2025",Beauty,Debit Card
+CUST1192,Diya Joshi,37,Mumbai,9416.08,4,2025-08-17,Eletronics,debit card
+CUST1193,Sara Naik,55,Ahmedabad,5396.54,9,07/02/2025,Fashion,net banking
+CUST1194,Meera Das,21,Nagpur,5871.21,14,2025-10-24,Sports,Net Banking
+CUST1195,Kiara Kulkarni,36,Pune,5567.12,6,04/10/2025,groceries,Debit Card
+CUST1196,Ishaan More,65,Mumbai,4013.61, 7 ,12/04/2025,sports,Cash
+CUST1197,Anika Mehta,34,Chennai,9681.11,12,"Nov 15, 2025",Eletronics,Credit Card
+CUST1198,Saanvi Naik,22,Hyderabad,7097.6,14,"Jan 22, 2026",home appliances,UPI
+CUST1199,Kiara Yadav,54,Hyderabad,2188.53,14,06-02-2025,Groceries,Credit Card
+CUST1200,Anika Mehta,53,Mumbai,3722.24,14,16-12-2025,sports,UPI
+CUST1201,Sai Khan,45,Bangalore,7695.8,15,2025-09-08,home appliances,UPI
+CUST1202,Ira Khan,26,Pune,6956.58,2,,Beauty,Debit Card
+CUST1203,Saanvi Khan,,Hyderabad,3418.81, 7 ,2026-01-09,home appliances,credit card
+CUST1204,Reyansh Patel,40,Kolkata,8341.73,2,2025-03-14,Sports,net banking
+CUST1205,Saanvi Iyer,24,Kolkata,6477.91,11,01/05/2026,Home Appliances,Debit Card
+CUST1206,Krishna Kulkarni,51,Chennai,3126.73,2,27/11/2025,electronics,Debit Card
+CUST1207,Aadhya Joshi,29,Chennai,6402.16,15,2026-02-28,Beauty,Cash
+CUST1208,Saanvi Naik,37,Nagpur,7910.97, 7 ,03/06/2026,Home appliance,Credit Card
+CUST1209,Reyansh Yadav,19,Chennai,4114.2,6,26/06/2025,fashion,Net Banking
+CUST1210,Aadhya Naik,67,Hyderabad,4944.3,5,02/05/2026,Eletronics,Credit Card
+CUST1211,Saanvi Bose,unknown,Chennai,4986.94,7,"Apr 01, 2025",sports,Debit Card
+CUST1212,Arjun Shaikh,67,Chennai,5236.62,5,2025-03-31,groceries,Credit Card
+CUST1213,Meera Kulkarni,49,Nagpur,6913.89,5,06-07-2025,groceries,Credit Card
+CUST1214,Aditya Pawar,,Hyderabad,11596.82, 7 ,10/07/2025,Beauty,upi
+CUST1215,Myra Sharma,67,Nagpur,7600.42,12,2025-06-28,Sports,cash
+CUST1216,Vihaan Mehta,43,Delhi,9458.78,10,06/26/2025,groceries,net banking
+CUST1217,Aditya Joshi,39,Nagpur,5088.64,3,27/10/2025,beauty,net banking
+CUST1218,Reyansh Khan,,Delhi,9173.88,4,02-06-2025,Eletronics,Debit Card
+CUST1219,Krishna Das,38,Bangalore,8534.49,,"Dec 07, 2025",fashion,Net Banking
+CUST1220,Anaya Joshi,44,Mumbai,7238.52,8,,Eletronics,Cash
+CUST1221,Meera Patel,31,Pune,5298.31,,30/06/2025,Fashion,net banking
+CUST1222,Reyansh Verma,45years,Kolkata,6370.43,,2025-02-27,electronics,credit card
+CUST1223,Sara Gupta,53,Delhi,6533.29,11,2026-02-19,Groceries,cash
+CUST1224,Krishna Mehta,,Jaipur,5609.2,15,29/01/2026,electronics,debit card
+CUST1225,Vihaan Verma,47,Delhi,7894.52,12,"Sep 12, 2025",groceries,net banking
+CUST1226,Reyansh Pawar,,Pune,177247.42,,09/10/2025,fashion,Debit Card
+CUST1227,Meera More,58,Mumbai,12869.25,4,01/24/2026,Eletronics,Debit Card
+CUST1228,Atharv Jadhav,19,Chennai,5707.66,6,2025-02-24,Home appliance,Credit Card
+CUST1229,Meera Khan,23,Mumbai,5869.77,8,2025-09-24,Sports,Credit Card
+CUST1230,Meera Reddy,63,Jaipur,1730.42,5,18-05-2025,beauty,Net Banking
+CUST1231,Aarav Jadhav,58,Pune,3992.43,13,05-11-2025,Home appliance,debit card
+CUST1232,Anaya Shaikh,63,Hyderabad,7569.99,13,04-08-2025,Eletronics,upi
+CUST1233,Krishna Nair, 32 ,Jaipur,7112.02,15,11/05/2025,Home Appliances,debit card
+CUST1234,Atharv Mehta,57,Pune,4699.72,15,11-09-2025,Fashion,credit card
+CUST1235,Krishna Singh,28,Chennai,5615.15,3,09/06/2025,sports,net banking
+CUST1236,Vihaan Pawar,58,Bangalore,5565.51,5,25-11-2025,electronics,UPI
+CUST1237,Meera Pawar,40,Pune,10910.96,6,2025-09-25,sports,upi
+CUST1238,Sara Joshi,49,Jaipur,5510.16,10,04/12/2025,Beauty,Net Banking
+CUST1239,Reyansh Kulkarni,50,Chennai,8270.82,3,02/23/2025,fashion,Debit Card
+CUST1240,Arjun Kulkarni,60,Nagpur,3649.2,8,12/06/2025,groceries,UPI
+CUST1241,Kiara Das,55,Ahmedabad,6442.82,4,03-04-2025,Electronics,Cash
+CUST1242,Meera Mehta,59,Bangalore,3384.16,10,13-10-2025,Beauty,UPI
+CUST1243,Sai Reddy,,Kolkata,2588.44,1,01/04/2025,beauty,Credit Card
+CUST1244,Krishna Joshi,40,Bangalore,2688.3,14,,Electronics,Credit Card
+CUST1245,Aarav Naik,56,Mumbai,7782.45,2,26/07/2025,Home Appliances,debit card
+CUST1246,Ishaan Verma,36,Hyderabad,5441.64,3,"Dec 31, 2025",Sports,upi
+CUST1247,Krishna Shaikh,28,Chennai,4526.65,6,11/05/2025,Electronics,debit card
+CUST1248,Ira Pawar,61,Jaipur,6864.27,1,18-02-2025,electronics,Net Banking
+CUST1249,Reyansh Naik,unknown,Hyderabad,8626.8,15,01-04-2025,groceries,Cash
+CUST1250,Ishaan Pawar,26,Pune,7715.47,,05/11/2025,Eletronics,cash
+CUST1251,Atharv Joshi,63,Nagpur,17720.85,3,03/02/2026,Sports,net banking
+CUST1252,Saanvi Sharma,45years,Ahmedabad,,1,23/02/2026,Beauty,debit card
+CUST1253,Kiara Gupta,54, pune,8342.92,7,13/03/2025,Eletronics,Net Banking
+CUST1254,Ira Pawar,48,Bangalore,8420.68,2,01/08/2026,sports,upi
+CUST1255,Atharv Sharma,33,Mumbai,5098.92,8,15-06-2025,home appliances,net banking
+CUST1256,Ira Mehta,25,Mumbai,126155.54,1,,beauty,Cash
+CUST1257,Myra Kulkarni,38,Hyderabad,4464.8,4,02/08/2026,Groceries,debit card
+CUST1258,Vivaan Kulkarni,67,Ahmedabad,8822.74,15,01/02/2026,groceries,UPI
+CUST1259,Saanvi Verma,35,Mumbai,3803.03,13,12/26/2025,electronics,Cash
+CUST1260,Reyansh Khan,34,Jaipur,10379.8,five,01-12-2025,beauty,credit card
+CUST1261,Sai Gupta,36,Jaipur,10023.33, 7 ,24/02/2025,fashion,UPI
+CUST1262,Ishaan Singh,43, pune,7135.7,5,2026-03-19,Home Appliances,debit card
+CUST1263,Diya Singh,41,MUMBAI ,3589.74,10,01-06-2025,home appliances,Credit Card
+CUST1264,Atharv Das,58,Mumbai,,7,09/03/2025,Home appliance,Debit Card
+CUST1265,Sai Mehta,,Delhi,5403.3,13,2025-03-04,Fashion,Credit Card
+CUST1266,Reyansh Das,24,Nagpur,7088.25,11,23/05/2025,Home appliance,cash
+CUST1267,Krishna Jadhav,27,Mumbai,5496.36,2,"Apr 10, 2025",Electronics,upi
+CUST1268,Saanvi Shaikh,52,Hyderabad,18897.0,12,15-05-2025,Eletronics,Net Banking
+CUST1269,Ishaan Pawar,45,Delhi,9690.5,10,22-08-2025,Home appliance,Debit Card
+CUST1270,Ira Gupta,54,Pune,10590.84,11,"Nov 17, 2025",Fashion,UPI
+CUST1271,Krishna Bose,68,Jaipur,4358.04,6,2025-12-18,fashion,upi
+CUST1272,Kiara Joshi, 32 ,Kolkata,4451.14,7,12/26/2025,beauty,credit card
+CUST1273,Ishaan Bose, 32 ,Pune,6453.9,,07/03/2026,Beauty,Credit Card
+CUST1274,Krishna Das,62,,10229.36,,28/08/2025,groceries,credit card
+CUST1275,Myra Pawar,64,Ahmedabad,6811.11,9,06-02-2026,fashion,Cash
+CUST1276,Anaya Patel,55,Delhi,16320.33,2,03-06-2025,sports,credit card
+CUST1277,Anika Joshi,47,Jaipur,6623.47, 7 ,05/03/2025,electronics,Credit Card
+CUST1278,Anika Naik,48,MUMBAI ,6766.69,7,2025-10-29,Home Appliances,Credit Card
+CUST1279,Meera Iyer,61, pune,7811.12, 7 ,2026-03-24,Eletronics,Credit Card
+CUST1280,Diya Das,25,Bangalore,5803.98,13,15/11/2025,Fashion,debit card
+CUST1281,Krishna Verma,53, pune,2577.41,12,05/02/2026,beauty,Debit Card
+CUST1282,Reyansh Gupta,44,Delhi,10139.2,,2025-11-23,fashion,credit card
+CUST1283,Ira Singh,46,Ahmedabad,5877.49,7,09/07/2025,Electronics,Cash
+CUST1284,Arjun Pawar,62,Kolkata,12583.8,4,2025-05-21,Sports,Credit Card
+CUST1285,Atharv Reddy,58,MUMBAI ,3172.0,4,11/13/2025,Groceries,Cash
+CUST1286,Saanvi Bose,38,Nagpur,3961.54,5,26-06-2025,Eletronics,debit card
+CUST1287,Vivaan Naik,32,Delhi,2994.63,14,12-05-2025,sports,credit card
+CUST1288,Sai Singh,52,Hyderabad,8222.67,10,"Jun 15, 2025",Beauty,net banking
+CUST1289,Atharv Yadav,40,Bangalore,8093.87,9,2025-07-26,Fashion,UPI
+CUST1290,Reyansh Kulkarni,23,,,15,2025-05-04,Home Appliances,credit card
+CUST1291,Meera Iyer,53,Jaipur,3664.18,9,2025-09-07,home appliances,debit card
+CUST1292,Aarav Pawar,unknown,Nagpur,13018.09,10,21/10/2025,home appliances,net banking
+CUST1293,Vivaan Khan,26,Kolkata,2269.32,15,02/20/2025,Electronics,Credit Card
+CUST1294,Ishaan Sharma,66,Chennai,8919.86,11,2025-02-18,Eletronics,net banking
+CUST1295,Meera Das,34,Pune,5988.49,5,28/01/2026,Home Appliances,upi
+CUST1296,Reyansh Naik,65,MUMBAI ,1312.76,2,17/02/2026,Beauty,credit card
+CUST1297,Ishaan Sharma,57,Kolkata,6345.27,13,03/20/2025,beauty,net banking
+CUST1298,Myra Sharma,57,Chennai,9313.58,12,"Feb 17, 2026",Beauty,cash
+CUST1299,Vihaan Bose,37,Kolkata,8159.91,8,03/22/2025,Sports,debit card
+CUST1300,Aarav Naik,45years,Kolkata,54827.88,11,07-03-2025,Home Appliances,credit card
+CUST1301,Ira Khan,45,Pune,5032.9,3,2025-03-18,fashion,Debit Card
+CUST1302,Ira Mehta,64,,9322.67,13,03-03-2026,Fashion,cash
+CUST1303,Aditya More,unknown,Pune,10008.03,10,05/18/2025,electronics,Cash
+CUST1304,Reyansh Reddy,35,Hyderabad,3469.68,2,17/01/2026,Home appliance,debit card
+CUST1305,Arjun Iyer,43,Pune,2370.35,6,02/22/2025,Beauty,UPI
+CUST1306,Saanvi Nair,64,Ahmedabad,3946.52,6,2025-12-22,Home Appliances,Net Banking
+CUST1307,Saanvi Khan,,MUMBAI ,12992.79,five,2025-02-20,electronics,debit card
+CUST1308,Anika Pawar,39,Hyderabad,7101.84,five,18/01/2026,Sports,upi
+CUST1309,Krishna Nair,59,Delhi,5019.75,2,"Apr 25, 2025",electronics,Net Banking
+CUST1310,Kiara More,,Jaipur,8817.97,2,10/15/2025,Eletronics,UPI
+CUST1311,Vivaan Singh,40, pune,6347.79,11,05/18/2025,sports,cash
+CUST1312,Myra Yadav,28,Hyderabad,5800.06,five,14/01/2026,fashion,net banking
+CUST1313,Atharv Shaikh,20,Nagpur,7146.38,6,2025-06-10,Home appliance,debit card
+CUST1314,Atharv Sharma,unknown,Jaipur,14433.71,10,25/09/2025,Fashion,cash
+CUST1315,Arjun Iyer,57,Ahmedabad,53693.75,7,2025-05-26,home appliances,credit card
+CUST1316,Aarav Kulkarni,45,Nagpur,10028.22,6,2025-02-12,Groceries,Net Banking
+CUST1317,Diya Sharma, 32 ,Nagpur,,12,05/24/2025,Sports,Debit Card
+CUST1318,Aditya Mehta,42,Bangalore,8668.37,five,02/24/2026,fashion,Credit Card
+CUST1319,Sara Kulkarni,66,MUMBAI ,10992.77,,"Jan 15, 2026",electronics,Debit Card
+CUST1320,Ishaan Yadav,20,Pune,1630.18,14,2025-12-10,Beauty,cash
+CUST1321,Atharv Pawar,34,Jaipur,13028.97,14,30-11-2025,home appliances,Cash
+CUST1322,Vivaan Naik,68,Chennai,7170.81,6,2025-12-04,groceries,credit card
+CUST1323,Anaya Verma,45,,13227.17,10,12-04-2025,Sports,Net Banking
+CUST1324,Aarav Jadhav,18,Chennai,5013.22,13,22/04/2025,Electronics,UPI
+CUST1325,Ira Sharma,24,Nagpur,11127.09,11,22-07-2025,Fashion,Net Banking
+CUST1326,Vihaan Verma,46,Ahmedabad,178372.57,8,"Jan 05, 2026",Home Appliances,debit card
+CUST1327,Myra Mehta,68,Bangalore,10892.89,11,03/02/2026,home appliances,credit card
+CUST1328,Sai Gupta,unknown,Delhi,24267.43,9,2025-05-01,home appliances,Credit Card
+CUST1329,Vihaan Bose,66,Hyderabad,5635.22,3,07-09-2025,Home appliance,Debit Card
+CUST1330,Sai Yadav,21,Nagpur,,11,07/19/2025,Eletronics,upi
+CUST1331,Vivaan Singh,45,Mumbai,2371.68,10,11/04/2025,electronics,Debit Card
+CUST1332,Aadhya Das,61,Mumbai,15068.23,1,10-03-2025,Home appliance,upi
+CUST1333,Aarav Das,,Kolkata,3642.5,8,2025-05-23,Eletronics,debit card
+CUST1334,Meera Bose,19, pune,8068.75,2,26/03/2025,Beauty,upi
+CUST1335,Vivaan Mehta, 32 ,Hyderabad,13966.89,14,27-10-2025,Home Appliances,Cash
+CUST1336,Reyansh More,63,Kolkata,18946.92,4,2025-03-22,groceries,Cash
+CUST1337,Krishna Bose,37,Nagpur,5283.41,3,2025-05-20,Fashion,UPI
+CUST1338,Aadhya Shaikh,67,Hyderabad,5001.1, 7 ,2025-08-14,Eletronics,credit card
+CUST1339,Ira Shaikh,25,Kolkata,9567.18,15,2025-07-06,Electronics,net banking
+CUST1340,Ishaan Nair,unknown,Jaipur,169937.71,3,10/02/2025,beauty,UPI
+CUST1341,Aarav Patel,67,Bangalore,6721.81,13,2026-03-07,Home appliance,credit card
+CUST1342,Sara Mehta,46,Hyderabad,3468.02,3,"Nov 13, 2025",electronics,upi
+CUST1343,Vihaan Verma,45,Delhi,11254.31,11,28/10/2025,electronics,debit card
+CUST1344,Anaya Sharma,35, pune,8680.17,9,2025-02-19,fashion,debit card
+CUST1345,Ira Das,24,Mumbai,5321.93,4,02/08/2025,Sports,credit card
+CUST1346,Aditya Mehta,60,Chennai,15070.08,10,05/14/2025,groceries,credit card
+CUST1347,Arjun Bose,55,Pune,5257.66,10,11/24/2025,Home Appliances,upi
+CUST1348,Aarav Iyer,33,Kolkata,7496.02,11,"Jan 03, 2026",Eletronics,Net Banking
+CUST1349,Aditya Verma,45years,Pune,7511.61,14,2025-03-17,electronics,Debit Card
+CUST1350,Arjun More,29,Jaipur,9850.51,2,2026-02-02,Sports,upi
+CUST1351,Aditya Singh,37,MUMBAI ,6222.76,8,2026-02-04,beauty,debit card
+CUST1352,Kiara Pawar,28,Bangalore,4283.23,1,2026-03-19,Fashion,Net Banking
+CUST1353,Atharv Kulkarni,54,Jaipur,9989.47,14,2025-12-10,Sports,cash
+CUST1354,Meera Shaikh,40,Chennai,13240.74,8,27/06/2025,fashion,Credit Card
+CUST1355,Vivaan Mehta,65,,3535.61,five,2025-08-26,electronics,Debit Card
+CUST1356,Diya Shaikh,35,Ahmedabad,8845.98,9,2026-03-14,Home Appliances,net banking
+CUST1357,Vivaan Verma,56,Nagpur,5796.16,9,07/05/2025,Home appliance,debit card
+CUST1358,Vihaan Reddy,45years, pune,5619.54,8,"Aug 22, 2025",sports,Credit Card
+CUST1359,Anaya Naik,20,Jaipur,7999.81,14,03-03-2025,Home Appliances,Net Banking
+CUST1360,Aarav Iyer,29,Jaipur,5963.83,9,"Aug 31, 2025",sports,Cash
+CUST1361,Atharv Patel,56,Nagpur,12428.71,4,2025-02-26,Groceries,Cash
+CUST1362,Saanvi Gupta,41, pune,14142.45,10,06-07-2025,Fashion,debit card
+CUST1363,Aarav Gupta,66,Ahmedabad,12548.89,2,28-12-2025,Eletronics,Credit Card
+CUST1364,Meera Khan,60,Delhi,8922.06,9,04/02/2025,Eletronics,debit card
+CUST1365,Ira Yadav,40,Bangalore,4266.79,9,"Jan 19, 2026",beauty,Credit Card
+CUST1366,Saanvi Jadhav,29,Nagpur,9289.73,1,"Aug 23, 2025",Sports,credit card
+CUST1367,Sai Jadhav,unknown,Hyderabad,6943.82,1,2026-01-28,Sports,Credit Card
+CUST1368,Saanvi Verma,56,Kolkata,12149.86,7,31/07/2025,Electronics,upi
+CUST1369,Aditya Iyer,unknown,Bangalore,15815.49,3,2025-04-11,sports,Cash
+CUST1370,Krishna Jadhav,45,Bangalore,5068.22,five,2025-02-14,Beauty,debit card
+CUST1371,Reyansh Das,33,Bangalore,,6,06/23/2025,Sports,credit card
+CUST1372,Aarav Shaikh,57, pune,1835.41,15,17/12/2025,Electronics,upi
+CUST1373,Meera Shaikh,43,Jaipur,12021.92,6,"Oct 25, 2025",fashion,Credit Card
+CUST1374,Meera Khan,38,Jaipur,4450.45,6,2025-07-25,Groceries,upi
+CUST1375,Anaya Verma,32,Mumbai,7032.53,4,03/11/2025,Eletronics,cash
+CUST1376,Myra Singh,39,Ahmedabad,3698.11,8,30/01/2026,beauty,Credit Card
+CUST1377,Kiara Khan,62,Hyderabad,7219.76,8,"Mar 02, 2026",fashion,Cash
+CUST1378,Anika Kulkarni,61,Mumbai,4116.8,6,2025-12-28,electronics,Debit Card
+CUST1379,Aditya Pawar,48,Delhi,6680.74,9,"Oct 01, 2025",beauty,credit card
+CUST1380,Myra Kulkarni,32,Chennai,5115.94,1,2025-11-11,Home Appliances,net banking
+CUST1381,Ishaan More,34, pune,3077.92,13,2025-07-30,fashion,cash
+CUST1382,Ira Patel,23,Pune,7563.67,10,09/15/2025,Electronics,Credit Card
+CUST1383,Aarav Verma,45years,Kolkata,5488.33,11,2025-02-06,Home appliance,debit card
+CUST1384,Anika Reddy,36,Ahmedabad,7205.15,13,,Groceries,upi
+CUST1385,Aarav Das,52,Hyderabad,11446.71,11,2025-02-25,Home Appliances,Cash
+CUST1386,Kiara Gupta,62,Chennai,12101.91,15,12-09-2025,groceries,credit card
+CUST1387,Vihaan Sharma,, pune,7407.27,2,24-03-2025,beauty,Credit Card
+CUST1388,Ishaan Sharma,51,Mumbai,9287.13,14,"Dec 29, 2025",Electronics,Net Banking
+CUST1389,Atharv Mehta,49,Delhi,2266.16,15,13/11/2025,Home appliance,Credit Card
+CUST1390,Saanvi Gupta, 32 ,Hyderabad,7929.24,6,20-09-2025,groceries,UPI
+CUST1391,Sara Sharma,65,Chennai,6004.58,10,08-10-2025,electronics,cash
+CUST1392,Meera Nair,69,Hyderabad,2926.1,9,22-05-2025,sports,credit card
+CUST1393,Saanvi Das,58,Mumbai,4798.17,7,"Mar 15, 2025",Sports,upi
+CUST1394,Aditya Naik,29, pune,,3,"Apr 20, 2025",Groceries,Cash
+CUST1395,Kiara Pawar,61,Delhi,64389.88,11,"Jan 19, 2026",fashion,UPI
+CUST1396,Diya Iyer,64,Delhi,12763.44,15,2025-03-21,Groceries,Cash
+CUST1397,Meera Iyer, 32 ,Mumbai,1849.38,10,10/03/2025,Fashion,Credit Card
+CUST1398,Sai Patel,54,Chennai,4712.78,5,"Mar 05, 2026",Electronics,debit card
+CUST1399,Kiara Shaikh,46,Delhi,3367.19,13,2026-02-26,Groceries,upi
+CUST1400,Krishna Joshi,46,Bangalore,2216.07,6,05/08/2025,Sports,cash
+CUST1401,Sara Singh,37,Jaipur,3479.99, 7 ,,Beauty,Cash
+CUST1402,Vivaan Verma,59,Mumbai,5524.25,5,,Beauty,cash
+CUST1403,Aditya More,49,Hyderabad,2078.74,5,03/01/2026,Eletronics,net banking
+CUST1404,Krishna Joshi,38,Pune,4248.51,12,2026-02-13,Fashion,Cash
+CUST1405,Atharv Bose,59,Kolkata,4415.79,3,06/22/2025,Beauty,Debit Card
+CUST1406,Vivaan Nair,19,Pune,6666.03,13,2025-06-07,Beauty,Net Banking
+CUST1407,Ishaan Joshi,30,Ahmedabad,9587.65,11,2025-10-21,Sports,net banking
+CUST1408,Reyansh Singh,unknown,Bangalore,50241.12,4,25-01-2026,Electronics,credit card
+CUST1409,Atharv Mehta,53,Bangalore,7384.39,13,2025-02-20,Fashion,Debit Card
+CUST1410,Anika Das,31,Mumbai,6869.48,6,03/10/2026,beauty,debit card
+CUST1411,Kiara More,45years,Kolkata,10092.46,13,"Sep 26, 2025",sports,Credit Card
+CUST1412,Ishaan Patel,38,Kolkata,5030.14,13,19-05-2025,electronics,net banking
+CUST1413,Vivaan Reddy,49, pune,6316.72,11,2026-02-17,Beauty,UPI
+CUST1414,Reyansh Shaikh,48,Kolkata,581.89,five,"Jun 14, 2025",Groceries,Net Banking
+CUST1415,Kiara More,46,Kolkata,12794.46,4,2025-12-26,Fashion,UPI
+CUST1416,Diya Iyer,45years,Hyderabad,2498.73,3,02-02-2026,Home appliance,cash
+CUST1417,Sai Jadhav,18,Ahmedabad,3369.42,11,01/09/2025,Eletronics,Credit Card
+CUST1418,Meera Singh,26,Hyderabad,11347.33,13,05-01-2026,electronics,Debit Card
+CUST1419,Krishna Patel,64,Jaipur,5631.29,11,2025-11-15,fashion,debit card
+CUST1420,Vivaan Nair,36,,5806.38,10,06/11/2025,Groceries,debit card
+CUST1421,Aarav Patel,36,Delhi,10277.08,,07/12/2025,Electronics,credit card
+CUST1422,Saanvi Kulkarni,21,Ahmedabad,2577.26,14,2025-09-05,Home appliance,debit card
+CUST1423,Saanvi Verma,42,Bangalore,6936.66,five,29/08/2025,groceries,Credit Card
+CUST1424,Sara More,67,MUMBAI ,7880.57,4,02/25/2026,Groceries,upi
+CUST1425,Saanvi Iyer,34,Mumbai,7719.86,6,16/05/2025,Eletronics,Credit Card
+CUST1426,Ira Mehta,59,Mumbai,6495.82,13,28-05-2025,Eletronics,debit card
+CUST1427,Vivaan Bose,61,Mumbai,4106.48,9,24-03-2026,Beauty,Cash
+CUST1428,Anaya Shaikh,36,Chennai,9216.84,12,03/16/2026,electronics,Debit Card
+CUST1429,Vivaan Khan,48,Pune,11672.73,14,2026-01-01,Eletronics,upi
+CUST1430,Aditya Nair,24,Bangalore,7754.58,12,05-01-2026,Groceries,upi
+CUST1431,Myra Verma,35, pune,,,04/05/2025,Home appliance,Cash
+CUST1432,Ira Patel,50,Bangalore,312879.65,3,03-09-2025,Fashion,UPI
+CUST1433,Myra Gupta,unknown,Jaipur,5729.22,8,"Oct 11, 2025",Eletronics,net banking
+CUST1434,Atharv Gupta,59,Kolkata,2928.44,12,10/04/2025,groceries,debit card
+CUST1435,Anika Bose,26,Jaipur,8474.01,10,2025-02-12,Eletronics,net banking
+CUST1436,Ishaan Das,20,Delhi,8738.82,five,24-01-2026,Electronics,debit card
+CUST1437,Sara Singh,37,Pune,6767.81,five,2025-05-09,beauty,debit card
+CUST1438,Aditya Mehta,55, pune,5227.23,14,2025-03-28,Fashion,UPI
+CUST1439,Ira Singh,45years,Nagpur,9692.22,five,"Mar 14, 2026",sports,Cash
+CUST1440,Anaya Kulkarni,60,Pune,11243.58,11,15-11-2025,Home Appliances,net banking
+CUST1441,Sai Reddy,37,Pune,6781.98,5,12/04/2025,fashion,Cash
+CUST1442,Vihaan Iyer,35,Kolkata,8440.42,2,"Sep 10, 2025",Eletronics,net banking
+CUST1443,Aadhya Gupta,56,Jaipur,5033.63,7,30-06-2025,beauty,Net Banking
+CUST1444,Anika Singh,45,Kolkata,8873.26,five,2025-12-23,electronics,upi
+CUST1445,Reyansh Gupta,52,Ahmedabad,11354.36,13,08/08/2025,Sports,Debit Card
+CUST1446,Sai Nair,, pune,4790.98,five,11/06/2025,home appliances,UPI
+CUST1447,Ira Singh,50,Delhi,3324.42,15,13-10-2025,Beauty,credit card
+CUST1448,Sara Nair,65,Delhi,8954.11,13,2025-11-04,Home appliance,Cash
+CUST1449,Reyansh Sharma,45,Chennai,192720.19,13,01/16/2026,Sports,upi
+CUST1450,Anaya Patel,57,Kolkata,3984.71,9,11/26/2025,electronics,debit card
+CUST1451,Sara Das,42,Kolkata,12581.54,9,2025-02-22,beauty,debit card
+CUST1452,Aadhya Naik,33,Delhi,8569.94,11,03/22/2026,Beauty,debit card
+CUST1453,Meera More,69,Pune,2080.76,8,15-11-2025,Home appliance,credit card
+CUST1454,Sara Nair,34,Mumbai,6236.85,13,13/12/2025,Electronics,Net Banking
+CUST1455,Sai Khan,48,Ahmedabad,10678.79,11,"Jun 07, 2025",Home appliance,Cash
+CUST1456,Atharv Singh,30,Delhi,9722.56,8,"Apr 25, 2025",Groceries,debit card
+CUST1457,Meera Iyer,31,Jaipur,9695.88,7,,home appliances,cash
+CUST1458,Vihaan Iyer,56,Nagpur,3731.92,6,2025-03-15,sports,upi
+CUST1459,Sara More,33,Jaipur,5390.12,14,04/08/2025,Home appliance,Credit Card
+CUST1460,Aadhya Jadhav,47,Pune,3742.11,10,"Oct 10, 2025",Eletronics,Debit Card
+CUST1461,Krishna Joshi,44,Bangalore,6480.07,14,29/04/2025,electronics,net banking
+CUST1462,Kiara Patel,28,Mumbai,10633.45,5,07/04/2025,beauty,cash
+CUST1463,Reyansh Nair,,Bangalore,4698.58,13,05/24/2025,Electronics,Net Banking
+CUST1464,Aadhya Kulkarni,,Mumbai,6855.52,9,06/07/2025,Beauty,Credit Card
+CUST1465,Reyansh Jadhav,67,Kolkata,6095.58,3,23/12/2025,Sports,UPI
+CUST1466,Arjun Nair,65,Hyderabad,7925.72,15,05/03/2026,Eletronics,upi
+CUST1467,Meera Mehta,53,Ahmedabad,8926.2,8,,Fashion,upi
+CUST1468,Arjun Singh,69,,2784.82,13,09/21/2025,Fashion,UPI
+CUST1469,Diya Yadav,55,Hyderabad,3024.24,14,06-01-2026,Home Appliances,Credit Card
+CUST1470,Aadhya Yadav,39,Jaipur,3729.26,5,04/16/2025,home appliances,Cash
+CUST1471,Vivaan Das,,Delhi,15113.83,9,2025-09-28,groceries,debit card
+CUST1472,Reyansh Naik,unknown,Jaipur,4430.44,1,2026-03-31,groceries,net banking
+CUST1473,Saanvi Yadav,21,Pune,8564.69,7,2026-01-21,Groceries,Cash
+CUST1474,Myra Mehta,51,Delhi,6239.73,7,12/01/2026,Groceries,net banking
+CUST1475,Myra Shaikh,68,Chennai,5156.2,7,"Sep 20, 2025",sports,UPI
+CUST1476,Ishaan Verma,,Mumbai,3776.67,3,12/03/2026,groceries,debit card
+CUST1477,Anaya Das,45years,MUMBAI ,12189.44,6,20-05-2025,home appliances,UPI
+CUST1478,Sara Reddy,47,,8944.77,2,02-07-2025,Sports,cash
+CUST1479,Meera Bose,40,Nagpur,9734.35,12,2025-12-08,Beauty,upi
+CUST1480,Meera Gupta,,Mumbai,6286.81,6,2025-04-30,fashion,net banking
+CUST1481,Aarav Sharma, 32 , pune,3075.8,7,21-10-2025,home appliances,Debit Card
+CUST1482,Sai Nair,21,Hyderabad,14031.51,6,26/04/2025,Eletronics,credit card
+CUST1483,Krishna Joshi,64,Pune,9553.22,10,"May 01, 2025",Fashion,Net Banking
+CUST1484,Aadhya Nair,43,Ahmedabad,6716.93,14,02/25/2026,home appliances,cash
+CUST1485,Anaya Singh,40,Chennai,15450.57,15,06/03/2025,Eletronics,Credit Card
+CUST1486,Anaya Naik,31, pune,11357.56,1,09/22/2025,Eletronics,Cash
+CUST1487,Sai Pawar,68,Kolkata,8148.22,1,26/09/2025,Sports,Debit Card
+CUST1488,Krishna Singh,19,Chennai,3025.56,11,21-12-2025,Electronics,net banking
+CUST1489,Aarav Mehta,55,Kolkata,5374.67,9,2025-03-20,sports,credit card
+CUST1490,Myra Pawar,41, pune,9157.9,,2026-02-18,beauty,Net Banking
+CUST1491,Sara Mehta,54,Delhi,,11,03/21/2025,groceries,debit card
+CUST1492,Saanvi More,61,Delhi,2601.33,10,28/04/2025,Eletronics,UPI
+CUST1493,Meera Jadhav,20, pune,5946.32,15,"Feb 11, 2026",electronics,Net Banking
+CUST1494,Aditya Nair,45years,Nagpur,2365.98,1,2025-07-09,Electronics,Debit Card
+CUST1495,Aditya Gupta,33,Nagpur,10916.66,9,2025-10-29,Groceries,Cash
+CUST1496,Vihaan Bose,24,Pune,4097.13,12,,Groceries,Credit Card
+CUST1497,Vihaan Verma,50,Delhi,5755.93,4,,Beauty,debit card
+CUST1498,Ishaan Jadhav,32,Hyderabad,8144.95,8,22-12-2025,home appliances,UPI
+CUST1499,Anaya Mehta,36,Ahmedabad,4648.51,12,07/29/2025,electronics,upi
+CUST1500,Aadhya Pawar,68,Kolkata,2949.24,5,21/09/2025,Eletronics,UPI
+CUST1501,Reyansh Nair,22,Chennai,8027.46,5,03/20/2025,Sports,upi
+CUST1502,Diya Khan,unknown,Nagpur,3518.47,2,2025-11-30,home appliances,Cash
+CUST1503,Meera Singh,20,Chennai,3968.09,10,,Home Appliances,debit card
+CUST1504,Atharv Mehta,22,Mumbai,,12,2026-03-24,sports,net banking
+CUST1505,Arjun Shaikh,53,Nagpur,8822.13,14,2025-08-02,home appliances,Credit Card
+CUST1506,Myra Jadhav,38,Pune,5788.95,13,"Feb 16, 2026",home appliances,UPI
+CUST1507,Krishna Nair,23,Nagpur,10037.55,8,2026-02-03,Sports,upi
+CUST1508,Saanvi Singh,41,Nagpur,5680.86,9,,groceries,Debit Card
+CUST1509,Anika Shaikh,42,Pune,13921.32,7,2025-08-31,Eletronics,cash
+CUST1510,Reyansh Patel,64,Pune,17260.1,,2025-05-27,Electronics,cash
+CUST1511,Diya Singh,45years,Jaipur,2808.6,9,22/02/2025,Sports,Credit Card
+CUST1512,Diya Kulkarni,47,Nagpur,3804.73,9,02/15/2025,Eletronics,Debit Card
+CUST1513,Krishna Yadav,30,Delhi,3366.08,2,10/27/2025,groceries,cash
+CUST1514,Myra Mehta,54,Pune,8316.94,12,"Jul 04, 2025",Eletronics,Debit Card
+CUST1515,Sara Nair,22,Ahmedabad,7294.61,,20-02-2026,fashion,debit card
+CUST1516,Arjun Joshi,52,Delhi,6053.24,13,2025-08-07,Electronics,Credit Card
+CUST1517,Kiara Verma,,Delhi,13905.38,8,27-05-2025,Electronics,Net Banking
+CUST1518,Aarav Bose,61,Jaipur,10028.21,14,"Dec 19, 2025",Eletronics,debit card
+CUST1519,Sai More,65,Mumbai,6878.89,9,,fashion,debit card
+CUST1520,Myra Naik,60,Nagpur,6058.67,2,,Groceries,cash
+CUST1521,Anika Nair,29,Kolkata,4672.0,14,18/08/2025,groceries,Cash
+CUST1522,Meera Mehta,21,Mumbai,4189.81,1,2025-08-26,fashion,Debit Card
+CUST1523,Aditya Yadav,,Kolkata,48402.38,4,05/12/2025,Home appliance,debit card
+CUST1524,Anika Reddy, 32 ,Mumbai,6733.6,,17-03-2025,home appliances,Cash
+CUST1525,Myra Shaikh,64,Hyderabad,12914.58,3,"Apr 24, 2025",Beauty,Credit Card
+CUST1526,Aditya Sharma,67,Pune,1552.18,5,,groceries,upi
+CUST1527,Diya Jadhav,54,Chennai,12273.31,14,10/04/2025,beauty,credit card
+CUST1528,Sai Nair,36,Delhi,5067.88,10,"Aug 13, 2025",Home Appliances,debit card
+CUST1529,Anaya Yadav,27,Bangalore,3798.37,1,06/01/2026,groceries,Cash
+CUST1530,Sara Mehta,66,Nagpur,,4,11/11/2025,electronics,debit card
+CUST1531,Vivaan Pawar,50,Nagpur,3470.39,,08/25/2025,Groceries,Net Banking
+CUST1532,Anika Patel, 32 ,Chennai,2232.98,five,13-03-2026,Eletronics,net banking
+CUST1533,Myra Iyer,18,Jaipur,5401.24,13,2026-02-05,sports,debit card
+CUST1534,Atharv Mehta,61,Bangalore,87746.13,8,09/22/2025,Electronics,Debit Card
+CUST1535,Anika Bose,37,Pune,2041.84, 7 ,"Mar 24, 2025",Sports,Credit Card
+CUST1536,Sara Reddy,24,Hyderabad,6580.85,14,03/02/2026,groceries,net banking
+CUST1537,Vivaan Nair,35,Nagpur,11552.35,12,02/13/2025,groceries,net banking
+CUST1538,Meera Jadhav,52,Bangalore,4768.43,11,12/19/2025,Home Appliances,credit card
+CUST1539,Ishaan Shaikh,,Pune,9312.97,2,"May 26, 2025",Electronics,net banking
+CUST1540,Aadhya Naik,51,Mumbai,1471.41,3,27-02-2025,Home appliance,Cash
+CUST1541,Aadhya Pawar,21,Bangalore,3953.19,15,2025-02-21,fashion,UPI
+CUST1542,Aarav Gupta,21,Mumbai,6875.32,2,,Fashion,net banking
+CUST1543,Myra More,21,Pune,7193.82,2,15/02/2026,Groceries,UPI
+CUST1544,Aditya Kulkarni,,Pune,6132.24,3,29-12-2025,Beauty,Net Banking
+CUST1545,Myra Iyer,24,Jaipur,11685.93,3,2025-03-04,sports,debit card
+CUST1546,Myra Joshi,36,Jaipur,5856.43,3,14-12-2025,groceries,Debit Card
+CUST1547,Vivaan Reddy,,Jaipur,10782.12,3,2025-07-17,Electronics,net banking
+CUST1548,Diya Iyer,69,Mumbai,6047.44,12,"Jan 07, 2026",home appliances,net banking
+CUST1549,Anika Singh,30,Ahmedabad,11079.23,8,2025-11-24,Sports,UPI
+CUST1550,Diya Iyer,20,Chennai,4196.54,15,09-05-2025,Groceries,Credit Card
+CUST1551,Vivaan Singh,23,Chennai,8678.24,7,"Feb 15, 2026",groceries,UPI
+CUST1552,Vihaan Pawar,40,Nagpur,8855.63,5,16-06-2025,groceries,debit card
+CUST1553,Sara Khan,64,Jaipur,9233.12,10,29/11/2025,beauty,Cash
+CUST1554,Ishaan Bose,35,Mumbai,5451.81,5,2025-10-02,Groceries,Net Banking
+CUST1555,Aadhya Naik,37,Pune,20458.96,,26-09-2025,home appliances,Cash
+CUST1556,Arjun Joshi,40,MUMBAI ,8326.88,10,15-07-2025,Home appliance,credit card
+CUST1557,Vivaan Pawar, 32 ,Pune,9596.11,11,11/29/2025,home appliances,Credit Card
+CUST1558,Anika Pawar,52,Delhi,8523.94,15,2025-09-03,sports,Net Banking
+CUST1559,Aditya Khan,27,Hyderabad,9655.11,1,,Sports,Credit Card
+CUST1560,Vivaan Mehta,22,Ahmedabad,6408.4,8,07/04/2025,beauty,net banking
+CUST1561,Arjun Yadav,18,Mumbai,6584.08,14,"Oct 09, 2025",Home Appliances,credit card
+CUST1562,Sara Shaikh,25,Kolkata,7962.35,15,2025-07-27,Sports,Cash
+CUST1563,Anika Bose,63,Bangalore,4012.08,4,2026-02-23,beauty,debit card
+CUST1564,Meera Yadav,40,Mumbai,6950.31,5,18-01-2026,Home Appliances,Cash
+CUST1565,Reyansh Bose,44,Pune,9524.35,7,2025-04-05,electronics,Cash
+CUST1566,Anika Kulkarni,63,Nagpur,12689.46,9,01/24/2026,Home Appliances,UPI
+CUST1567,Meera Shaikh,23,Pune,11005.08,4,04-09-2025,Sports,cash
+CUST1568,Meera More, 32 ,Delhi,8698.32,12,2025-05-03,home appliances,net banking
+CUST1569,Sara Patel,27,Chennai,3189.61,15,23-01-2026,beauty,upi
+CUST1570,Aarav Sharma,52,Pune,9212.83,7,2025-07-16,groceries,credit card
+CUST1571,Aditya Pawar,unknown,Mumbai,9277.39,4,03-05-2025,beauty,upi
+CUST1572,Meera Verma,52,Mumbai,7558.5,1,2025-05-29,Home appliance,Credit Card
+CUST1573,Kiara Bose,60,Jaipur,4070.92,2,2026-03-11,Fashion,upi
+CUST1574,Saanvi Das,61,Delhi,6925.87,15,2026-02-11,Fashion,cash
+CUST1575,Aarav Shaikh,69,Chennai,3569.85,9,15/08/2025,sports,credit card
+CUST1576,Saanvi Pawar,21,Hyderabad,9413.09,10,2025-10-12,home appliances,credit card
+CUST1577,Reyansh Kulkarni,62,Kolkata,98824.14,15,2025-10-13,home appliances,UPI
+CUST1578,Aditya Joshi,46,Chennai,6350.55,3,2026-01-29,sports,debit card
+CUST1579,Vihaan Gupta,55, pune,4822.06,12,03/24/2026,groceries,net banking
+CUST1580,Atharv More,61,,5001.77,13,2025-09-28,Sports,Net Banking
+CUST1581,Krishna Iyer,26,,5998.26,12,2025-03-04,Electronics,net banking
+CUST1582,Sai Jadhav,58,Nagpur,4512.81,10,12-10-2025,home appliances,debit card
+CUST1583,Atharv Iyer,51,Pune,9600.37,10,17-02-2025,Home Appliances,Cash
+CUST1584,Anaya Joshi,60,Jaipur,8857.0,4,02/14/2026,Eletronics,cash
+CUST1585,Aditya Yadav,47,Nagpur,10045.46,9,24/06/2025,home appliances,net banking
+CUST1586,Meera Reddy,28,Mumbai,46623.36,1,2025-12-25,electronics,net banking
+CUST1587,Ira Naik,40,Mumbai,17949.53,1,10/03/2026,Fashion,net banking
+CUST1588,Reyansh Mehta,45,Hyderabad,2763.51,10,08/03/2025,groceries,cash
+CUST1589,Sai Singh,, pune,6398.05,12,2025-07-28,Beauty,UPI
+CUST1590,Arjun Naik,23,Chennai,9517.19,8,11-11-2025,home appliances,Debit Card
+CUST1591,Arjun Iyer,27,Delhi,6522.49,five,06/14/2025,Home appliance,Net Banking
+CUST1592,Saanvi Pawar,45years,Ahmedabad,9113.29, 7 ,01/12/2025,sports,Credit Card
+CUST1593,Aditya Sharma,45years,Pune,2422.82,5,08-03-2026,Electronics,debit card
+CUST1594,Meera Joshi,45years,Nagpur,8068.46,10,23-10-2025,Electronics,Cash
+CUST1595,Vihaan Kulkarni,19,,10760.76,10,2025-06-24,Home Appliances,cash
+CUST1596,Atharv Kulkarni,20,Jaipur,3808.03,7,2025-04-10,Beauty,Net Banking
+CUST1597,Vihaan Naik,unknown,Pune,7786.07,8,"Aug 29, 2025",Fashion,upi
+CUST1598,Ira Iyer, 32 ,Delhi,11086.29,12,2025-04-23,Eletronics,Cash
+CUST1599,Vihaan Sharma,57, pune,10715.59,15,04/11/2025,electronics,credit card
+CUST1600,Meera Reddy,19,Delhi,8551.22,,03/01/2025,Electronics,cash
+CUST1601,Arjun More,68,Nagpur,2531.35,4,18/12/2025,fashion,Credit Card
+CUST1602,Myra More,25,Ahmedabad,8768.92,10,2025-07-19,groceries,upi
+CUST1603,Ishaan Sharma,41,Hyderabad,8223.56,5,14/10/2025,fashion,upi
+CUST1604,Anika Nair,35,Jaipur,6987.04,10,"Nov 01, 2025",Fashion,cash
+CUST1605,Sai More,32,Jaipur,6679.1,3,14/01/2026,Sports,Debit Card
+CUST1606,Aadhya Gupta,63,Kolkata,9482.33,3,12/02/2025,sports,cash
+CUST1607,Anika Patel,37,,5500.38,1,"Jul 03, 2025",Electronics,net banking
+CUST1608,Sara Patel,33,Bangalore,7443.25,1,18-11-2025,electronics,credit card
+CUST1609,Vivaan Iyer,37,Pune,3322.78,5,08/18/2025,Home Appliances,debit card
+CUST1610,Sai Verma,,Delhi,9467.72,8,2025-06-20,Sports,UPI
+CUST1611,Meera Verma,34,Delhi,13644.13,5,,Sports,net banking
+CUST1612,Diya Naik,37,Chennai,8716.71,11,22/12/2025,home appliances,upi
+CUST1613,Aarav Das,36,Bangalore,,15,"Aug 30, 2025",fashion,Debit Card
+CUST1614,Aarav Patel,,Chennai,4593.59,11,2026-02-10,Beauty,Net Banking
+CUST1615,Sara Patel,27,MUMBAI ,11567.65,7,03/03/2025,Fashion,Cash
+CUST1616,Arjun Patel,36,Chennai,257904.78,4,2026-03-23,Home Appliances,Cash
+CUST1617,Diya Kulkarni,52,Mumbai,7119.51,6,2025-03-01,Home appliance,Credit Card
+CUST1618,Meera Sharma,62,Nagpur,4958.97,14,09/02/2025,Beauty,Credit Card
+CUST1619,Anika Das,68,Delhi,6786.27,11,2025-08-24,Groceries,credit card
+CUST1620,Diya Iyer,,Ahmedabad,10547.23,2,12/19/2025,groceries,Net Banking
+CUST1621,Aarav Bose,43,Nagpur,3954.89,five,02-04-2025,groceries,debit card
+CUST1622,Arjun Reddy,24,Pune,8905.75,3,02-03-2025,Groceries,cash
+CUST1623,Anaya Singh,unknown, pune,6943.27,13,2025-03-25,fashion,Cash
+CUST1624,Ira Naik,42,Mumbai,43570.78,,29/11/2025,Sports,credit card
+CUST1625,Sai Naik,,Chennai,2895.08,6,"Aug 23, 2025",Electronics,net banking
+CUST1626,Vivaan Bose,unknown,Pune,6907.2,5,"Apr 13, 2025",Fashion,Cash
+CUST1627,Saanvi Naik,61,Nagpur,4390.67,1,2026-02-03,Home Appliances,Credit Card
+CUST1628,Krishna Iyer,26,Hyderabad,6651.21,9,2025-09-23,Electronics,debit card
+CUST1629,Krishna Kulkarni,41,Pune,,2,"Aug 08, 2025",Eletronics,cash
+CUST1630,Saanvi Bose,50,Ahmedabad,8134.76,13,09/27/2025,home appliances,upi
+CUST1631,Ira Khan,27,Ahmedabad,4622.58,9,"Mar 20, 2026",Home appliance,cash
+CUST1632,Ishaan Joshi,66,Ahmedabad,5893.74,7,2025-03-12,Groceries,net banking
+CUST1633,Kiara Jadhav,unknown,Ahmedabad,7722.43,7,05/05/2025,Home Appliances,net banking
+CUST1634,Anika Kulkarni,45years,Mumbai,4446.55, 7 ,"Aug 12, 2025",Eletronics,UPI
+CUST1635,Anaya Reddy, 32 ,Ahmedabad,6402.41,12,2025-11-09,Electronics,Credit Card
+CUST1636,Myra More,32, pune,4376.65,14,03/05/2025,sports,cash
+CUST1637,Aditya Das,62,MUMBAI ,74341.9,7,,fashion,Net Banking
+CUST1638,Aditya Bose,56,Kolkata,10220.35,14,2025-09-09,Electronics,net banking
+CUST1639,Saanvi Iyer,44,Hyderabad,8192.53,1,21-03-2025,Home Appliances,credit card
+CUST1640,Vivaan Jadhav,55,Bangalore,9901.43,7,18-01-2026,Fashion,upi
+CUST1641,Krishna Verma,65, pune,6708.81,6,2025-07-26,groceries,debit card
+CUST1642,Vivaan Das,35,Nagpur,13836.13,,2025-05-04,Sports,UPI
+CUST1643,Ira Reddy,23,Kolkata,2246.78,7,,electronics,debit card
+CUST1644,Krishna More,57,Bangalore,7393.24,6,02/14/2026,beauty,UPI
+CUST1645,Sara More,42,Delhi,9338.86,13,"May 18, 2025",electronics,Credit Card
+CUST1646,Diya Jadhav,53,Delhi,7886.88,five,04/09/2025,beauty,upi
+CUST1647,Reyansh Verma,57,Mumbai,66015.04,2,12-10-2025,electronics,UPI
+CUST1648,Ira Patel,66,Pune,19791.77,5,08-03-2026,Electronics,Credit Card
+CUST1649,Myra Khan,24,Nagpur,5700.77,9,08/01/2026,Beauty,Net Banking
+CUST1650,Arjun Verma,56,Jaipur,6550.94,14,2025-03-11,sports,cash
+CUST1651,Ira Patel,28,Kolkata,8772.25,12,20-12-2025,Home Appliances,upi
+CUST1652,Saanvi Nair,54, pune,90712.86,3,2025-10-26,Beauty,net banking
+CUST1653,Diya Bose,19,Delhi,6465.68,2,13-11-2025,sports,Net Banking
+CUST1654,Vivaan Kulkarni,30,Bangalore,39800.7,14,2025-02-15,sports,cash
+CUST1655,Anika Khan,39,Hyderabad,3695.38,7,2025-10-16,groceries,Credit Card
+CUST1656,Anaya Bose,31,Ahmedabad,8785.77,13,04/22/2025,groceries,net banking
+CUST1657,Saanvi Verma, 32 ,Nagpur,7516.35,10,20-03-2025,sports,credit card
+CUST1658,Anaya Nair,41,Kolkata,4680.51,12,24-02-2025,Home appliance,upi
+CUST1659,Ishaan Bose,38,Hyderabad,6969.49,8,"Mar 22, 2025",Electronics,Credit Card
+CUST1660,Ira Sharma,62,Ahmedabad,12634.16,15,09-02-2026,beauty,cash
+CUST1661,Saanvi Gupta,55,Chennai,12279.12,10,13/11/2025,Sports,Net Banking
+CUST1662,Kiara Shaikh,48,Chennai,7201.17,7,09-07-2025,Home Appliances,Cash
+CUST1663,Vivaan Kulkarni,55,Kolkata,4863.96,6,10-02-2026,Groceries,credit card
+CUST1664,Diya Patel,,Bangalore,7567.25,10,2025-12-28,Beauty,Net Banking
+CUST1665,Sara Das,28,Bangalore,5187.66,12,09/01/2026,Eletronics,upi
+CUST1666,Sai Khan,50,Jaipur,11763.56,8,2026-03-06,Eletronics,cash
+CUST1667,Aditya Gupta,55,Delhi,74002.46,13,14/11/2025,Fashion,net banking
+CUST1668,Reyansh Jadhav,31,Bangalore,9684.96,1,30-11-2025,Home Appliances,net banking
+CUST1669,Krishna Khan,34,Nagpur,2669.63,5,"Mar 17, 2025",Sports,credit card
+CUST1670,Saanvi Sharma,21,Hyderabad,,6,2025-11-26,electronics,debit card
+CUST1671,Ira Singh,33,Nagpur,15598.19,1,05-08-2025,sports,UPI
+CUST1672,Aadhya Nair,35,Hyderabad,2784.47,13,"Apr 22, 2025",Electronics,upi
+CUST1673,Vihaan Iyer,50,Nagpur,10563.85, 7 ,11-05-2025,electronics,net banking
+CUST1674,Atharv Yadav,39,Kolkata,8015.11,6,22-09-2025,beauty,upi
+CUST1675,Anika Verma,66,Kolkata,17616.53,4,04/03/2026,Electronics,cash
+CUST1676,Ira Jadhav,33,Hyderabad,14006.61,2,16-10-2025,Home appliance,upi
+CUST1677,Diya Sharma,56,Kolkata,4520.12,1,19-05-2025,Home Appliances,Net Banking
+CUST1678,Saanvi Iyer,37,Bangalore,2594.04,13,2025-03-28,Fashion,net banking
+CUST1679,Anika Naik,31,Delhi,1274.53,5,2025-09-16,sports,cash
+CUST1680,Ishaan Das,48,Nagpur,3067.69,five,10/03/2025,Sports,Net Banking
+CUST1681,Aditya Singh,40, pune,9550.12, 7 ,"Jan 19, 2026",beauty,Credit Card
+CUST1682,Sara Verma,30,Bangalore,9855.27,6,05-12-2025,groceries,Cash
+CUST1683,Vivaan Verma,unknown,Mumbai,2993.84,,2025-10-04,Home Appliances,net banking
+CUST1684,Ishaan Das,46,Bangalore,1579.55,,2025-10-24,groceries,Cash
+CUST1685,Aadhya Singh,58,Ahmedabad,3393.65,15,01-10-2025,Fashion,cash
+CUST1686,Aadhya Gupta,58,Delhi,,1,20-11-2025,fashion,credit card
+CUST1687,Anaya Iyer,27, pune,16942.06,14,2025-05-26,Eletronics,Credit Card
+CUST1688,Aarav Mehta,57,Bangalore,5844.28,12,2026-03-29,fashion,upi
+CUST1689,Reyansh Reddy,39,Nagpur,6405.34,3,2025-12-12,groceries,cash
+CUST1690,Meera Naik,25,Chennai,11579.77,11,"Apr 26, 2025",home appliances,debit card
+CUST1691,Arjun Joshi,28,Hyderabad,12369.42,12,"Jan 03, 2026",fashion,Credit Card
+CUST1692,Saanvi Bose,30,Kolkata,10717.61,9,2025-03-16,sports,debit card
+CUST1693,Atharv Nair,32,Nagpur,48554.37,11,29-03-2026,beauty,Debit Card
+CUST1694,Aadhya Khan,37,Kolkata,5021.71,3,"Jun 19, 2025",electronics,Credit Card
+CUST1695,Saanvi Mehta,,Hyderabad,8938.25,10,08/14/2025,groceries,Cash
+CUST1696,Diya Yadav,61,Nagpur,7651.63,2,"Feb 27, 2026",electronics,Net Banking
+CUST1697,Krishna Gupta,63,Chennai,5005.85,3,"Jul 05, 2025",fashion,Credit Card
+CUST1698,Meera Pawar,64, pune,11543.26,11,19/11/2025,home appliances,Credit Card
+CUST1699,Aarav Reddy,46,Jaipur,122977.76,2,"Jul 24, 2025",Groceries,credit card
+CUST1700,Anika Iyer,unknown,Pune,4527.1,five,04/03/2025,Eletronics,UPI
+CUST1701,Aarav Yadav,62,Nagpur,9573.32,14,"Aug 15, 2025",fashion,debit card
+CUST1702,Anaya Sharma,42,Hyderabad,2974.98,9,2025-04-14,groceries,UPI
+CUST1703,Anaya Gupta,18,Hyderabad,4942.27,1,18-07-2025,Eletronics,upi
+CUST1704,Atharv Verma, 32 ,Chennai,10128.37,7,01/19/2026,Eletronics,Net Banking
+CUST1705,Aditya Yadav,unknown,Chennai,6016.08,2,10/31/2025,Fashion,credit card
+CUST1706,Saanvi Sharma,28,Bangalore,6687.55,12,15-04-2025,electronics,Cash
+CUST1707,Myra Verma,54,Pune,8114.2,10,2025-05-01,Home Appliances,upi
+CUST1708,Myra Singh,58,Jaipur,5691.58,2,08/31/2025,fashion,Net Banking
+CUST1709,Ira Nair,29,Pune,9144.21,8,08/26/2025,fashion,upi
+CUST1710,Krishna Mehta,33,Chennai,14752.96,8,07/04/2025,Sports,UPI
+CUST1711,Ishaan Iyer,39,Jaipur,13174.09,15,20/03/2025,sports,Net Banking
+CUST1712,Saanvi Gupta,49,Hyderabad,11220.72,15,09/21/2025,Beauty,Debit Card
+CUST1713,Ishaan Jadhav,36,Chennai,9583.6,7,11/29/2025,fashion,cash
+CUST1714,Kiara Patel,23,Bangalore,2230.89,5,2025-09-02,Home appliance,Net Banking
+CUST1715,Anika Naik,45years,Nagpur,6625.41,13,"Feb 16, 2025",Beauty,upi
+CUST1716,Kiara Reddy,64,Mumbai,2702.96,2,24/09/2025,Beauty,net banking
+CUST1717,Saanvi Patel,20,Mumbai,6099.81,9,2025-07-14,Electronics,net banking
+CUST1718,Aditya Jadhav,24,Hyderabad,8513.03,13,22/02/2026,Home Appliances,debit card
+CUST1719,Anika Khan,44,Ahmedabad,5315.38,4,07/01/2025,Sports,credit card
+CUST1720,Krishna Joshi,50,Pune,4350.36,3,05/07/2025,Eletronics,credit card
+CUST1140,Anaya Shaikh,64,Jaipur,1949.71,5,"Oct 12, 2025",home appliances,Debit Card
+CUST1527,Diya Jadhav,54,Chennai,12273.31,14,10/04/2025,beauty,credit card
+CUST1308,Anika Pawar,39,Hyderabad,7101.84,five,18/01/2026,Sports,upi
+CUST1372,Aarav Shaikh,57, pune,1835.41,15,17/12/2025,Electronics,upi
+CUST1588,Reyansh Mehta,45,Hyderabad,2763.51,10,08/03/2025,groceries,cash
+CUST1350,Arjun More,29,Jaipur,9850.51,2,2026-02-02,Sports,upi
+CUST1625,Sai Naik,,Chennai,2895.08,6,"Aug 23, 2025",Electronics,net banking
+CUST1332,Aadhya Das,61,Mumbai,15068.23,1,10-03-2025,Home appliance,upi
+CUST1393,Saanvi Das,58,Mumbai,4798.17,7,"Mar 15, 2025",Sports,upi
+CUST1456,Atharv Singh,30,Delhi,9722.56,8,"Apr 25, 2025",Groceries,debit card
+CUST1538,Meera Jadhav,52,Bangalore,4768.43,11,12/19/2025,Home Appliances,credit card
+CUST1185,Sara Patel,35,Hyderabad,3682.79,6,31/08/2025,sports,UPI
+CUST1572,Meera Verma,52,Mumbai,7558.5,1,2025-05-29,Home appliance,Credit Card
+CUST1368,Saanvi Verma,56,Kolkata,12149.86,7,31/07/2025,Electronics,upi
+CUST1284,Arjun Pawar,62,Kolkata,12583.8,4,2025-05-21,Sports,Credit Card
